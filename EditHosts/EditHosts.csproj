@@ -5,7 +5,8 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-
+    
+    <!-- shell32_1.ico -->
     <ApplicationIcon>icon.ico</ApplicationIcon>
     <!-- publish 不要有 .pdb -->
     <DebugType>none</DebugType>
